@@ -1,0 +1,30 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		 caracter sexo
+		 
+		 
+		escreva("\n Qual seu sexo ? ")
+		leia(sexo)
+		
+		limpa()
+		
+		escolha(sexo)
+		{
+			caso ('F'):
+			escreva("Sexo feminimo.")
+			pare
+
+			caso ('M'):
+			escreva("Sexo masculino.")
+			pare
+
+			caso contrario:
+			escreva("Opção inválida.")
+			pare
+			
+		}
+	}
+}
