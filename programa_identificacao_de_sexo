@@ -1,0 +1,9 @@
+Programa de Identificação de Sexo
+
+Este projeto consiste em um programa simples que solicita ao usuário para informar seu sexo (masculino ou feminino). Dependendo da entrada, o programa retorna uma mensagem correspondente. O objetivo é demonstrar uma interação básica com o usuário e a utilização de estruturas condicionais.
+
+Funcionalidades:
+
+O usuário pode inserir seu sexo (F para feminino ou M para masculino).
+O programa retorna uma mensagem informando o sexo selecionado.
+Caso a entrada seja inválida, o programa avisa que a opção escolhida não é válida.
